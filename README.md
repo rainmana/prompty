@@ -1,4 +1,4 @@
-# 🧠 AI Prompt Library
+# 🧠📚 Prompty
 
 A modern, dark-themed Streamlit application for managing and organizing AI prompts. Built specifically for security professionals and developers who need a structured way to store, categorize, and deploy AI prompts.
 
