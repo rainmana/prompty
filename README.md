@@ -32,8 +32,8 @@ A modern, dark-themed Streamlit application for managing and organizing AI promp
 
 1. **Clone and Build**:
 ```bash
-git clone <repository-url>
-cd ai-prompt-library
+git clone [<repository-url>](https://github.com/rainmana/prompty)
+cd prompty
 docker-compose up -d
 ```
 
